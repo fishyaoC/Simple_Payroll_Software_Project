@@ -1,0 +1,14 @@
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\netcoreapp3.1\Simple Payroll Software Project.csproj.AssemblyReference.cache
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\netcoreapp3.1\Simple Payroll Software Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\netcoreapp3.1\Simple Payroll Software Project.AssemblyInfoInputs.cache
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\netcoreapp3.1\Simple Payroll Software Project.AssemblyInfo.cs
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\netcoreapp3.1\Simple Payroll Software Project.csproj.CoreCompileInputs.cache
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\bin\Debug\netcoreapp3.1\Simple Payroll Software Project.exe
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\bin\Debug\netcoreapp3.1\Simple Payroll Software Project.deps.json
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\bin\Debug\netcoreapp3.1\Simple Payroll Software Project.runtimeconfig.json
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\bin\Debug\netcoreapp3.1\Simple Payroll Software Project.runtimeconfig.dev.json
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\bin\Debug\netcoreapp3.1\Simple Payroll Software Project.dll
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\bin\Debug\netcoreapp3.1\Simple Payroll Software Project.pdb
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\netcoreapp3.1\Simple Payroll Software Project.dll
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\netcoreapp3.1\Simple Payroll Software Project.pdb
+C:\Users\eric\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\netcoreapp3.1\Simple Payroll Software Project.genruntimeconfig.cache
